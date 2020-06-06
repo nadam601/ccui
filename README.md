@@ -45,7 +45,7 @@ Single or multiline (plain-text) text editor. Not very complex API-wise, but pro
 
 ### Window
 
-Represents a window component.
+Represents a window component. A window can be dragged and resized using the mouse, which consteantly forces the inner content to update the layout.
 
 ## Styling
 
